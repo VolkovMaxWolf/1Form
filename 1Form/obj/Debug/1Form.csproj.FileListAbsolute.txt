@@ -1,0 +1,10 @@
+D:\Wolf\1Form\1Form\bin\Debug\1Form.exe.config
+D:\Wolf\1Form\1Form\bin\Debug\1Form.exe
+D:\Wolf\1Form\1Form\bin\Debug\1Form.pdb
+D:\Wolf\1Form\1Form\obj\Debug\1Form.csprojAssemblyReference.cache
+D:\Wolf\1Form\1Form\obj\Debug\_1Form.Form1.resources
+D:\Wolf\1Form\1Form\obj\Debug\_1Form.Properties.Resources.resources
+D:\Wolf\1Form\1Form\obj\Debug\1Form.csproj.GenerateResource.cache
+D:\Wolf\1Form\1Form\obj\Debug\1Form.csproj.CoreCompileInputs.cache
+D:\Wolf\1Form\1Form\obj\Debug\1Form.exe
+D:\Wolf\1Form\1Form\obj\Debug\1Form.pdb
